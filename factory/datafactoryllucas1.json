@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryllucas1",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b71f6f95-c542-4dc9-8451-89f16b456c39",
+		"tenantId": "5393972b-4128-466d-8765-13f7924e0758"
+	}
+}
